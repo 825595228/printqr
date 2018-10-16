@@ -10,15 +10,10 @@ public class Database {
 //	private static String username;
 //	private static String password;
 //	private static String dataBaseName;
-//	static String username = "root";
-//	static String password = "123456";
-//	static String dataBaseName = "froeasy";
-//	static String ip = "//127.0.0.1:3306/";
-	
-	static String username = "wpc_qrcode";
-	static String password = "Fyadmin123";
-	static String dataBaseName = "wpc";
-	static String ip = "//rm-bp13a64mgzhd7l012o.mysql.rds.aliyuncs.com/";
+	static String username = "root";
+	static String password = "123456";
+	static String dataBaseName = "froeasy";
+	static String ip = "//127.0.0.1:3306/";
 	
 	
 	/**
